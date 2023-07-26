@@ -22,7 +22,7 @@
 
 ## ```NOMER BOT WHATSAPP```
 <p align="center">
-<a href="https://wa.me/6285795532497"><img src="https://img.shields.io/badge/WhatsApp Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/13658006122"><img src="https://img.shields.io/badge/WhatsApp Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ## DONASI
